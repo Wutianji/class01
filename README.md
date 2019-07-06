@@ -1,5 +1,5 @@
 # class01
 
 ## Swift
-qwwqwwqqw
+qwwqwwqq
 ## Swift 5.1
